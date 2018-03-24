@@ -1,0 +1,20 @@
+{
+  "name": "mcsquare",
+  "version": "1.0.0",
+  "description": "React-based components on mobile application",
+  "main": "lib/index",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "local"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "ui",
+    "mobile"
+  ],
+  "author": "FEYeh"
+}
